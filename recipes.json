@@ -1,0 +1,32 @@
+{
+  "spaghetti nduja": [
+    {
+      "name": "spaghetti",
+      "quantity": 160
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": 250
+    },
+    {
+      "name": "nduja",
+      "quantity": 40
+    },
+    {
+      "name": "italian hard cheese",
+      "quantity": 30
+    },
+    {
+      "name": "roasted garlic paste",
+      "quantity": 15
+    },
+    {
+      "name": "spinach",
+      "quantity": 80
+    },
+    {
+      "name": "tomato paste",
+      "quantity": 32
+    }
+  ]
+}
